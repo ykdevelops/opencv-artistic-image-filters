@@ -1,3 +1,3 @@
-# Face Detection using OpenCV and Streamlit
+# Artistic Image Filters
 
-https://ykdevelops-opencv-face-detection-streamlit-app-2pw1xg.streamlit.app/
+https://ykdevelops-opencv-artistic-image-filte-image-filters-app-3hu91f.streamlit.app/
